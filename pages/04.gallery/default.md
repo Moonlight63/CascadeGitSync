@@ -7,4 +7,4 @@ process:
 creator: admin
 ---
 
-{{ unite_gallery(page.media.images) }}
+{{ light_gallery(page.media.images) }}
