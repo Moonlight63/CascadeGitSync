@@ -8,3 +8,4 @@ creator: admin
 ---
 
 {{ light_gallery(page.media.images) }}
+{{ unite_gallery(page.media.images) }}
